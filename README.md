@@ -1,1 +1,1 @@
-# landing_basica_desdeVCstudio
+# landing_basica_desdeVScode
